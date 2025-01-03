@@ -32,3 +32,7 @@ st.markdown(" O conjunto de dados conterá mais de 17 mil jogadores únicos e ma
 
 
 # testando commit as 12:16
+
+
+
+# par rodar streamlit run C:\Users\DIEGO\Documents\GitHub\STREAMLIT\STREAMLIT\1_home.py
