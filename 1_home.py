@@ -4,7 +4,7 @@ import webbrowser
 from datetime import datetime
 import pprint
 
-st.write(" # FIFA23_official_data")
+st.write(" # FIFA23 Dados Oficiais")
 
 if "data" not in st.session_state:
     df_data = pd.read_csv(r"C:\Users\DIEGO\Documents\GitHub\Streamlit_1app\datasets\FIFA23_official_data.csv",index_col=0)
